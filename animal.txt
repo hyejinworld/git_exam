@@ -1,5 +1,5 @@
-panda
-cat
+pandai
+cow
 dog
 snack
-bird
+bear
